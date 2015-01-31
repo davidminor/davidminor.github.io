@@ -1,0 +1,12 @@
+title:        '{-}'
+tagline:      'David Minor'
+description:  'Some thoughts, mostly about code. By <a href="https://twitter.com/davidminor" target="_blank">@davidminor</a>.'
+url:          http://davidminor.com
+version:      1.1.1
+author:
+  name:       'David Minor'
+  email:      ''
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     5
